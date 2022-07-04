@@ -2,12 +2,19 @@ h3{
     color: red;
 
 }
-.section{
+section{
     display: flex;
 }
 .half{
-    width: 100%
+    width:70%;
 }
 .img-half{
-    100%
+    width: 50%
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange red);
+    padding: 10px 40px;
+    border-radius: 5px;
+
 }
