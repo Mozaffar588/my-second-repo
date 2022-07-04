@@ -1,3 +1,13 @@
 h3{
     color: red;
+
+}
+.section{
+    display: flex;
+}
+.half{
+    width: 100%
+}
+.img-half{
+    100%
 }
