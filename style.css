@@ -13,8 +13,10 @@ section{
 }
 .link-button{
     text-decoration: none;
-    background-image: linear-gradient(orange red);
+    background-color: linear-gradient(orange red);
     padding: 10px 40px;
+
+    color: white;
     border-radius: 5px;
 
 }
